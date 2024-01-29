@@ -1,6 +1,6 @@
 # BrockHausAG
 coding challenge BrockHausAg
 
-* Import the project in your IDE ( bcp Intelli J)
+* Import the project in your IDE ( bsp Intelli J)
 * Open the SUPERDUPERMARK CLASS
 * Compile / RUN 
